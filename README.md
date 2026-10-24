@@ -1,5 +1,4 @@
 
-for readme file I used this:
 # Should_Eniac_sell_on_Magist
 
 ## Project Overview
